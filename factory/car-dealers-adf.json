@@ -1,0 +1,9 @@
+{
+	"name": "car-dealers-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "42e6a55c-a332-442d-8bca-8acfe390bfdc",
+		"tenantId": "a0cf0303-81da-46b7-8ad5-160a92cb80a0"
+	}
+}
